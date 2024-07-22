@@ -95,7 +95,14 @@ p {
 
     .account-list li {
         font-size: 0.875rem;
+         color: white;
     }
+    
+.account-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
     .background-image {
         background-image: url('am.webp');
         position: fixed;
